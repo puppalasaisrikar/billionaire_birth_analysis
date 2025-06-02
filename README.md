@@ -48,7 +48,7 @@ The insights above are purely observational and speculative—they do not imply 
 ## Preview
 
 ![Dashboard Preview](dashboard1_preview.png)
-![Dashboard Preview](dashboard1_preview.png)
+![Dashboard Preview](dashboard2_preview.png)
 
 ## License
 
