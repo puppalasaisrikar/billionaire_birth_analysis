@@ -4,9 +4,9 @@ This project explores birth-related patterns among global billionaires, analyzin
 
 ## Project Structure
 
-- `data/billionaires_birth_data.xlsx`: Raw dataset containing names, DOBs, industries, citizenships, and genders.
-- `dashboards/billionaire_birth_tableau.twbx`: Tableau workbook with interactive dashboards.
-- `images/dashboard_preview.png`: Image preview of the Tableau dashboard.
+- `billionaires_birth_data.xlsx`: Raw dataset containing names, DOBs, industries, citizenships, and genders.
+- `billionaire_demographic.twbx`: Tableau workbook with interactive dashboards.
+- `dashboard1_preview.png`, `dashboard2_preview.png: Image previews of the Tableau dashboard.
 
 ## Dashboards Overview
 
@@ -35,7 +35,7 @@ The insights above are purely observational and speculative—they do not imply 
 
 ## How to Explore
 
-1. Open `billionaire_birth_tableau.twbx` in Tableau Desktop or Tableau Public.
+1. Open `billionaire_demographic.twbx` in Tableau Desktop or Tableau Public.
 2. Interact with filters, hover over charts, and explore hidden patterns.
 3. Use `billionaires_birth_data.xlsx` to extend the analysis or clean data further.
 
@@ -47,7 +47,8 @@ The insights above are purely observational and speculative—they do not imply 
 
 ## Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](dashboard1_preview.png)
+![Dashboard Preview](dashboard1_preview.png)
 
 ## License
 
